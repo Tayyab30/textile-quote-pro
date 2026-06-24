@@ -1,2 +1,0 @@
-class QuoteRequestsController < ApplicationController
-end
